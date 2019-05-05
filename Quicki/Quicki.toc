@@ -1,0 +1,9 @@
+## Interface: 13200
+## Title: Quicki
+## Notes: A Questing Addon for 1.13.X
+## Version: 0.001A"
+## Author: Felius (Maelstrom)
+Questi.xml
+Questi.lua
+## LoadOnDemand: 1
+## SavedVariablesPerCharacter: somePercharVariable
